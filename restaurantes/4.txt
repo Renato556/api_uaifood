@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "PF Frango P",
+"descricaoPrato": "Arroz, feijão, ovo e frango",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "PF Frango M",
+"descricaoPrato": "Arroz, feijão, ovo e frango",
+"precoPrato": "R$ 15,00"
+},
+{
+"nomePrato": "PF Carne P",
+"descricaoPrato": "Arroz, feijão, ovo e carne",
+"precoPrato": "R$ 15,00"
+},
+{
+"nomePrato": "PF Carne M",
+"descricaoPrato": "Arroz, feijão, ovo e carne",
+"precoPrato": "R$ 18,00"
+},
+{
+"nomePrato": "Gelatina de morango",
+"descricaoPrato": "Gelatina de morango",
+"precoPrato": "R$ 5,00"
+}
+]
