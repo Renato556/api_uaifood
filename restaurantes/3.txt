@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Açaí Pequeno",
+"descricaoPrato": "Acompanha Banana e Granola",
+"precoPrato": "R$ 8,00"
+},
+{
+"nomePrato": "Açaí Médio",
+"descricaoPrato": "Acompanha Banana e Granola",
+"precoPrato": "R$ 10,00"
+},
+{
+"nomePrato": "Açaí Grande",
+"descricaoPrato": "Acompanha Banana e Granola",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "Açaí Família",
+"descricaoPrato": "Acompanha Banana e Granola",
+"precoPrato": "R$ 15,00"
+},
+{
+"nomePrato": "Barca de Açaí",
+"descricaoPrato": "Acompanha Banana e Granola",
+"precoPrato": "R$ 30,00"
+}
+]
