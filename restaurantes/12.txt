@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Risotto Pomodoro",
+"descricaoPrato": "Risotto Pomodoro, acompanha um bife",
+"precoPrato": "R$ 55,00"
+},
+{
+"nomePrato": "Risotto Parmegiana",
+"descricaoPrato": "Risotto Pomodoro, acompanha um bife",
+"precoPrato": "R$ 55,00"
+},
+{
+"nomePrato": "Risotto Limão Siciliano",
+"descricaoPrato": "Risotto Pomodoro, acompanha um bife",
+"precoPrato": "R$ 55,00"
+},
+{
+"nomePrato": "Risotto de Camarão",
+"descricaoPrato": "Risotto Pomodoro, acompanha um bife",
+"precoPrato": "R$ 55,00"
+},
+{
+"nomePrato": "Risotto de Carne",
+"descricaoPrato": "Risotto Pomodoro, acompanha um bife",
+"precoPrato": "R$ 55,00"
+}
+]
