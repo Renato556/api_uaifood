@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Wanted Original",
+"descricaoPrato": "Pao, carne, queijo e salada",
+"precoPrato": "R$ 36,00"
+},
+{
+"nomePrato": "Wanted Bacon",
+"descricaoPrato": "Pao, carne, queijo, bacon e salada",
+"precoPrato": "R$ 40,00"
+},
+{
+"nomePrato": "Wanted Ovo",
+"descricaoPrato": "Pao, carne, queijo, ovo e salada",
+"precoPrato": "R$ 38,00"
+},
+{
+"nomePrato": "Wanted Bacon e ovo",
+"descricaoPrato": "Pao, carne, queijo, bacon, ovo e salada",
+"precoPrato": "R$ 42,00"
+},
+{
+"nomePrato": "Wanted Duplo Completo",
+"descricaoPrato": "Pao, 2 carnes, queijo, bacon, ovo e salada",
+"precoPrato": "R$ 46,00"
+},
+]
