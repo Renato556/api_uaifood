@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Tortinha",
+"descricaoPrato": "Salgado",
+"precoPrato": "R$ 5,50"
+},
+{
+"nomePrato": "Enrolado de Salsicha Assado",
+"descricaoPrato": "Salgado",
+"precoPrato": "R$ 5,50"
+},
+{
+"nomePrato": "Hamburgão",
+"descricaoPrato": "Salgado",
+"precoPrato": "R$ 5,50"
+},
+{
+"nomePrato": "Espetinho de boi",
+"descricaoPrato": "Espetinho",
+"precoPrato": "R$ 8,50"
+},
+{
+"nomePrato": "Brahma Barrigudinha",
+"descricaoPrato": "Cerveja Gelada",
+"precoPrato": "R$ 5,00"
+}
+]
