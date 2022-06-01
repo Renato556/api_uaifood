@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Pão de queijo",
+"descricaoPrato": "Pão de queijo pequeno",
+"precoPrato": "R$ 3,00"
+},
+{
+"nomePrato": "Coxinha",
+"descricaoPrato": "Coxinha pequena",
+"precoPrato": "R$ 3,00"
+},
+{
+"nomePrato": "Empadinha",
+"descricaoPrato": "Empadinha pequena",
+"precoPrato": "R$ 3,00"
+},
+{
+"nomePrato": "Croquete",
+"descricaoPrato": "Croquete pequeno",
+"precoPrato": "R$ 3,00"
+},
+{
+"nomePrato": "Fatia de bolo de chocolate",
+"descricaoPrato": "Fatia generosa de bolo feito no dia",
+"precoPrato": "R$ 7,00"
+}
+]
