@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Expresso",
+"descricaoPrato": "Café expresso",
+"precoPrato": "R$ 5,00"
+},
+{
+"nomePrato": "Capucchino",
+"descricaoPrato": "Café Capucchino",
+"precoPrato": "R$ 8,00"
+},
+{
+"nomePrato": "Mocacchino",
+"descricaoPrato": "Café Mocacchino",
+"precoPrato": "R$ 10,00"
+},
+{
+"nomePrato": "Café com leite",
+"descricaoPrato": "Café expresso",
+"precoPrato": "R$ 6,00"
+},
+{
+"nomePrato": "Gelato",
+"descricaoPrato": "Café Gelado",
+"precoPrato": "R$ 15,00"
+}
+]
