@@ -1,90 +1,90 @@
 [
 {
-"id": 1,
+"id": "1",
 "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTH3WGUML4qxeRnREr4vH3BWiNsNVI6pyHH1aAbY0-2cmLrVaOb1ScOcrIbWNkZuSN6I&usqp=CAU",
 "nome": "Pizza Hut",
 "descricao": "Pizzaria"
 },
 {
-"id": 2,
+"id": "2",
 "imagem": "https://yt3.ggpht.com/ytc/AKedOLRV0k_akM4H7qU0BMFJcS9n1XT8DFiCb2lpcQ61=s900-c-k-c0x00ffffff-no-rj",
 "nome": "Pastelaria Marília de Dirceu",
 "descricao": "Pastelaria"
 },
 {
-"id": 3,
+"id": "3",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/7fb05299-0f4e-4391-90fa-fb875eabe836/202112201422_4Jn2_.jpeg",
 "nome": "Jah Do Açaí",
 "descricao": "Sorveteria"
 },
 {
-"id": 4,
+"id": "4",
 "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTYqzcn0m5Wl8KrPhQFseTnWOMH23wqJPbindXgq3FGk-tVGg6lLU4AvFW_EjRiybKeA&usqp=CAU",
 "nome": "Bar Tudo Legal",
 "descricao": "Restaurante"
 },
 {
-"id": 5,
+"id": "5",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/b2a1615b-dba8-46d9-96e0-aa54fca6df88/202009151309_JBJh_.jpeg",
 "nome": "Ponte Furada",
 "descricao": "Pizzaria"
 },
 {
-"id": 6,
+"id": "6",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/acdf3958-f0dd-41f2-a053-09959e519da2/202007161520_7iWL_i.jpg",
 "nome": "Pizzaria Guarani",
 "descricao": "Pizzaria"
 },
 {
-"id": 7,
+"id": "7",
 "imagem": "https://lh3.googleusercontent.com/-JpAbzjKsb5A/AAAAAAAAAAI/AAAAAAAAAAA/WmAwuHj5cXc/s44-p-k-no-ns-nd/photo.jpg",
 "nome": "Digão - Restaurante",
 "descricao": "Restaurante"
 },
 {
-"id": 8,
+"id": "8",
 "imagem": "https://guiadohamburguer.com/wp-content/uploads/2020/05/wanted.jpg",
 "nome": "Wanted Hamburgueria Artesanal",
 "descricao": "Hamburgueria"
 },
 {
-"id": 9,
+"id": "9",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/725cba27-3ad0-4ae4-8fef-99df987c9c67_COCOB_IANIA.png",
 "nome": "Coco Bambu",
 "descricao": "Restaurante"
 },
 {
-"id": 10,
+"id": "10",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/e88fbe01-dd08-413e-9895-57f9b41ccc5f/202008101207_dlhn_i.png",
 "nome": "Outback",
 "descricao": "Restaurante"
 },
 {
-"id": 11,
+"id": "11",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/791936db-79ac-48a7-a36d-19bad5a900d4/202103051114_to43_i.png",
 "nome": "Alessa",
 "descricao": "Sorveteria"
 },
 {
-"id": 12,
+"id": "12",
 "imagem": "https://files.menudino.com/cardapios/11589/logo.png",
 "nome": "Gastrô Hub",
 "descricao": "Restaurante"
 },
 {
-"id": 13,
+"id": "13",
 "imagem": "https://duisktnou8b89.cloudfront.net/img/stores/626a006b803cb.png",
 "nome": "Manni Cafés Especiais",
 "descricao": "Cafeteria"
 },
 {
-"id": 14,
+"id": "14",
 "imagem": "http://www.fornodeminas.com.br/wp-content/uploads/2017/10/logo_header1.png",
 "nome": "Forno de Minas",
 "descricao": "Lanchonete"
 },
 {
-"id": 15,
+"id": "15",
 "imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/039d9f39-6b30-4107-9fa2-6d023dff0e99/202010161554_wOTk_i.png",
 "nome": "Crepe Locks",
 "descricao": "Creperia"
