@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Pizza Calabresa Gigante",
+"descricaoPrato": "Pizza com massa fina com recheio de calabresa",
+"precoPrato": "R$ 32,00"
+},
+{
+"nomePrato": "Pizza Marguerita Gigante",
+"descricaoPrato": "Pizza com massa fina com recheio de tomate",
+"precoPrato": "R$ 33,00"
+},
+{
+"nomePrato": "Pizza Peperoni Gigante",
+"descricaoPrato": "Pizza com massa fina com recheio de peperoni",
+"precoPrato": "R$ 31,00"
+},
+{
+"nomePrato": "Pizza Portuguesa Gigante",
+"descricaoPrato": "Pizza com massa fina com recheio portuguesa",
+"precoPrato": "R$ 30,00"
+},
+{
+"nomePrato": "Pizza Morango com Nutella Média",
+"descricaoPrato": "Pizza com massa fina com recheio de nutella com morango e borda de chocolate recheada",
+"precoPrato": "R$ 41,00"
+}
+]
