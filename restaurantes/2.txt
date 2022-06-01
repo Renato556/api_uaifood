@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Pastel de Queijo",
+"descricaoPrato": "Pastel com recheio de Queijo",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "Pastel de Carne",
+"descricaoPrato": "Pastel com recheio de Carne",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "Pastel de Frango",
+"descricaoPrato": "Pastel com recheio de Frango",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "Pastel de Palmito",
+"descricaoPrato": "Pastel com recheio de Palmito",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "Pastel de Chocolate",
+"descricaoPrato": "Pastel com recheio de Chocolate",
+"precoPrato": "R$ 12,00"
+}
+]
