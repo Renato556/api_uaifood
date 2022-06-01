@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Camarão completo M",
+"descricaoPrato": "Risotto parmegiana com camarão",
+"precoPrato": "R$ 95,00"
+},
+{
+"nomePrato": "Camarão completo G",
+"descricaoPrato": "Risotto parmegiana com camarão",
+"precoPrato": "R$ 145,00"
+},
+{
+"nomePrato": "Tilápia completo",
+"descricaoPrato": "Risotto parmegiana com Tilápia ",
+"precoPrato": "R$ 75,00"
+},
+{
+"nomePrato": "Tilápia completo",
+"descricaoPrato": "Risotto parmegiana com Tilápia ",
+"precoPrato": "R$ 99,00"
+},
+{
+"nomePrato": "Petit Gateu",
+"descricaoPrato": "Bolinho quente recheado com calda de chocolate, acompanha sorvete de creme",
+"precoPrato": "R$ 22,00"
+}
+]
