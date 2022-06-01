@@ -79,7 +79,7 @@
 },
 {
 "id": "14",
-"imagem": "http://www.fornodeminas.com.br/wp-content/uploads/2017/10/logo_header1.png",
+"imagem": "https://media.glassdoor.com/sqll/1482737/forno-de-minas-squarelogo-1576664067285.png",
 "nome": "Forno de Minas",
 "descricao": "Lanchonete"
 },
