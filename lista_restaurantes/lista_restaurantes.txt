@@ -79,7 +79,7 @@
 },
 {
 "id": "14",
-"imagem": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/039d9f39-6b30-4107-9fa2-6d023dff0e99/202010161554_wOTk_i.png",
+"imagem": "https://media.glassdoor.com/sqll/1482737/forno-de-minas-squarelogo-1576664067285.png",
 "nome": "Forno de Minas",
 "descricao": "Lanchonete"
 },
