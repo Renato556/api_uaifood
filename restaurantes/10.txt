@@ -1,27 +1,27 @@
 [
 {
-"nomePrato": "Sorvete Creme P",
-"descricaoPrato": "1 bola de sorvete",
-"precoPrato": "R$ 8,00"
+"nomePrato": "Costela Meia",
+"descricaoPrato": "Costela ao barbecue, acompanha fritas",
+"precoPrato": "R$ 78,00"
 },
 {
-"nomePrato": "Sorvete Creme M",
-"descricaoPrato": "2 bola de sorvete",
-"precoPrato": "R$ 10,00"
+"nomePrato": "Costela Inteira",
+"descricaoPrato": "Costela ao barbecue, acompanha fritas",
+"precoPrato": "R$ 98,00"
 },
 {
-"nomePrato": "Sorvete Chocolate P",
-"descricaoPrato": "1 bola de sorvete",
-"precoPrato": "R$ 8,00"
+"nomePrato": "Hamburguer Padrão",
+"descricaoPrato": "Pão, carne e queijo",
+"precoPrato": "R$ 35,00"
 },
 {
-"nomePrato": "Sorvete Chocolate P",
-"descricaoPrato": "2 bola de sorvete",
-"precoPrato": "R$ 12,00"
+"nomePrato": "Hamburguer Completo",
+"descricaoPrato": "Pão, carne, queijo, bacon, salada e ovo",
+"precoPrato": "R$ 45,00"
 },
 {
-"nomePrato": "Sorvete Creme e Chocolate",
-"descricaoPrato": "1 bola de sorvete",
-"precoPrato": "R$ 10,00"
+"nomePrato": "Picanha",
+"descricaoPrato": "400g, acompanha arroz e fritas",
+"precoPrato": "R$ 100,00"
 }
 ]
