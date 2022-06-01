@@ -1,0 +1,27 @@
+[
+{
+"nomePrato": "Sorvete Creme P",
+"descricaoPrato": "1 bola de sorvete",
+"precoPrato": "R$ 8,00"
+},
+{
+"nomePrato": "Sorvete Creme M",
+"descricaoPrato": "2 bola de sorvete",
+"precoPrato": "R$ 10,00"
+},
+{
+"nomePrato": "Sorvete Chocolate P",
+"descricaoPrato": "1 bola de sorvete",
+"precoPrato": "R$ 8,00"
+},
+{
+"nomePrato": "Sorvete Chocolate P",
+"descricaoPrato": "2 bola de sorvete",
+"precoPrato": "R$ 12,00"
+},
+{
+"nomePrato": "Sorvete Creme e Chocolate",
+"descricaoPrato": "1 bola de sorvete",
+"precoPrato": "R$ 10,00"
+}
+]
