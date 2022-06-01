@@ -23,5 +23,5 @@
 "nomePrato": "Wanted Duplo Completo",
 "descricaoPrato": "Pao, 2 carnes, queijo, bacon, ovo e salada",
 "precoPrato": "R$ 46,00"
-},
+}
 ]
